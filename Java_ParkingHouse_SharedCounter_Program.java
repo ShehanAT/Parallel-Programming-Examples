@@ -70,8 +70,6 @@ class CarParkControl {
         ++spaces;
         notifyAll();
     }
-
-
 }
 
 class CarPark {
